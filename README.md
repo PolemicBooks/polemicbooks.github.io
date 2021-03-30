@@ -1,0 +1,1 @@
+Este repositório contém ícones que são usados no [catálogo OPDS do Polemic Books](https://github.com/PolemicBooks/PlmcBksAPI). Todas as imagens são fornecidas de forma livre e gratuita pela [UXWing](https://uxwing.com/).

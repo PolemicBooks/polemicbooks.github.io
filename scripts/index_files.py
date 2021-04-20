@@ -19,7 +19,7 @@ tracked_files = [
 ]
 
 with lzma.open(filename="books.json.xz", mode="r") as file:
-	books = orjson.loads(file.read())
+	books = json.loads(file.read().decode(encoding="utf-8"))
 
 client = pyrogram.Client(**PYROGRAM_OPTIONS)
 client.start()
